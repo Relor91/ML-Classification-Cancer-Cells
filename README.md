@@ -6,4 +6,3 @@
 * Split the data with a **Test Size** of 0.2.
 * Optimized the SVM by using an **Polynomial Kernel** to obtain the best model.
 * Plotted a **Confusion Matrix** of the **Model Results**.
-{{< figure src="/images/SVM.jpg" >}}
