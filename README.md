@@ -1,4 +1,4 @@
-# ML-Classification-Cancer-Cells
+# ML Classification: Cancer Cells
 "A Machine Learning **SVM** algorithm that predicts if patient's cells are benign or malignant"
 
 * Created a **Support Vector Machines** algorithm that predicts if patient's cells are benign or malignant(**F1-Score 97%**) given Clump thickness, Uniformity of cell size, Uniformity of cell shape, Marginal adhesion, Single epithelial cell size, Bare nuclei, Bland chromatin, Normal nucleoli and Mitoses.
